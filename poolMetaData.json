@@ -1,0 +1,7 @@
+{
+"name": "KASHIN SPO - Stake ADA earn KSHN",
+"description": "The official stake pool of the KASHIN protocol. 100% of the stake rewards go to the development of the project and financing the credits. For each staked ADA for full epoch, you earn a calculated amount of KSHN token. Read more at https://kashin.xyz",
+"ticker": "KSHN",
+"homepage": "https://kashin.xyz",
+"extended": "https://raw.githubusercontent.com/Zebra-Danio/meta/main/extendedPoolMetaData.json"
+}
